@@ -1,0 +1,667 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Three merry wives of Green-Goose Fair, with them for mirth none can compare, or, A pleasant discourse of three merry-cummers being full of delight and pleasant wit, the merriest book that ever was writ.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62493</idno>
+            <idno type="STC">Wing T1104A</idno>
+            <idno type="STC">ESTC R24627</idno>
+            <idno type="EEBO-CITATION">08255902</idno>
+            <idno type="OCLC">ocm 08255902</idno>
+            <idno type="VID">41235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62493)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41235)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1242:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Three merry wives of Green-Goose Fair, with them for mirth none can compare, or, A pleasant discourse of three merry-cummers being full of delight and pleasant wit, the merriest book that ever was writ.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the year 1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41235:1"/>
+            <pb facs="tcp:41235:1"/>
+            <p>The Three Merry VVIVES OF <hi>Green-Gooſe</hi> Fair: VVith them for Mirth None can Compare.</p>
+            <p>OR, A Pleaſant diſcourſe of three <hi>Merry-Cummers.</hi>
+            </p>
+            <p>
+               <hi>Being full of delight and pleaſant wit, The merrieſt Book that ever was writ.</hi>
+            </p>
+            <p>Printed in the Year, 1694</p>
+         </div>
+         <div type="preface">
+            <pb n="2" facs="tcp:41235:2"/>
+            <head>The Preface.</head>
+            <lg>
+               <l>IN the dayes of old, when men were little boyes,</l>
+               <l>And pretty Maids delighted in fine toyes;</l>
+               <l>About that time, in the dayes of yore,</l>
+               <l>I pen'd this ſtory never pen'd before.</l>
+               <l>Fetcht from the ſatchell of Antiquitie,</l>
+               <l>Blame me not if I chance to tell a lie;</l>
+               <l>For 'tis ſo old, that I that pen'd the ſame,</l>
+               <l>Can hardly tell from whence the ſtory came.</l>
+               <l>Some ſay in the bottom of the ſea 'twas found,</l>
+               <l>A fortnight ſince my Granſires Mare was drown'd:</l>
+               <l>Some ſay it was in the belly of a fiſh,</l>
+               <l>Found on a faſting day, in a Friers diſh.</l>
+               <l>And in the ſweet bag of a Humble Bee,</l>
+               <l>And ſo my Authors cannot well agree;</l>
+               <l>But 'tis not ſo, for in a cup of Wine,</l>
+               <l>I found it ſcattered by the Muſes nine.</l>
+               <l>And after caſt into Parnaſſus Well,</l>
+               <l>But how it was hookt up, I cannot tell:</l>
+               <l>Nevertheleſs there's many a ſilly elfe,</l>
+               <l>Doe think that I invented this my ſelf.</l>
+               <l>Well, let them think their pleaſure. I'le proceed,</l>
+               <l>But have a care and laugh not when you read;</l>
+               <l>For fear you ſtrain your eyes, and they run o're,</l>
+               <l>So being blind you never read it more.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:41235:2"/>
+            <head>
+               <hi>The three merry Wives</hi> OF <hi>Green-Gooſe</hi> Fair.</head>
+            <lg>
+               <l>I Know not when, but three blyth wives there were</l>
+               <l>That took their journey into Green-Gooſe fair</l>
+               <l>One had unto her husband a Shoemaker,</l>
+               <l>She lov'd the Brewer better then the Baker</l>
+               <l>Another had a Corn-cutter, O ſtrange!</l>
+               <l>An active fellow known at the Exchange;</l>
+               <l>A Carvers Wife the other woman was,</l>
+               <l>A verie merrie, luſtie, bonnie laſs.</l>
+               <l>Theſe three to Green-Gooſe fair, did take their way;</l>
+               <l>Onlie to be merrie as ſome ſay:</l>
+               <l>Walking along they found a Diamond Ring,</l>
+               <l>Pleaſure with profit is a gallant thing</l>
+               <l>All ſaw it at one time, but ſhe that did,</l>
+               <l>Take the Ring up, did ſeem for to forbid;</l>
+               <l>The other two to claim their ſhares in it,</l>
+               <l>Covetouſneſs had taught her ſo much wit.</l>
+               <l>The other two had vow'd to have their ſhares<g ref="char:punc">▪</g>
+               </l>
+               <l>In this ſame Ring, or fall about her ears;</l>
+               <l>When ſhe ſaw them ſo hot, ſhe told them this,</l>
+               <l>To have the Ring divided 'twas amiſs</l>
+               <l>Quoth ſhe, before the Ring ſhall be divided,</l>
+               <l>I had rather yeild the cauſe ſhall be decided<g ref="char:punc">▪</g>
+               </l>
+               <l>By the next man they meet, they were content,</l>
+               <l>So onward of their journey then they went.</l>
+               <l>The next man that they met, was a chaſte Frier,</l>
+               <l>
+                  <pb n="4" facs="tcp:41235:3"/>Onelie he burn'd a little in deſire:</l>
+               <l>In fiery zeal tovvards a holy ſiſter,</l>
+               <l>And vvhenſoever he met he kindlie kiſt her.</l>
+               <l>Creept from the Cloiſter leaving his Devotion,</l>
+               <l>All that he novv did ſeek vvas for Promotion;</l>
+               <l>He ſought to be admitted vvillinglie,</l>
+               <l>A grave Confeſſion of a Nunnerie.</l>
+               <l>But O! it could not be and vvhat of that?</l>
+               <l>He vvent vvithout a morſell for his Cat:</l>
+               <l>But ſince he miſt his Opportunity,</l>
+               <l>He vvalks abroad to fiſh for other fry,</l>
+               <l>Meeting with theſe three women by the way,</l>
+               <l>He was the firſt did act the Comick Play;</l>
+               <l>Well met faire woman, quoth the Fryer then,</l>
+               <l>Good morrow, quoth the women, honeſt man,</l>
+               <l>O how the women wronged him! fie for ſhame,</l>
+               <l>To call him honeſt man was not his name;</l>
+               <l>He thought they jeared him, and began to ſmile,</l>
+               <l>Yet he was very patient all that while.</l>
+               <l>Good Maſter Fryer, quoth the Carvers wife,</l>
+               <l>Do juſtice now, and ſave a womans life;</l>
+               <l>You muſt be Umpire Sir, in this our cauſe,</l>
+               <l>O ſeek to ſave me from thoſe Tygers clawes.</l>
+               <l>I found a Diamond Ring, and theſe two Sluts,</l>
+               <l>Have ſworn, and vow'd that the'l rip up my guts:</l>
+               <l>Unleſſe they have ſhares in this ſame Ring,</l>
+               <l>Now I have told my tale, judge of the thing.</l>
+               <l>The Frier underſtanding of the matter,</l>
+               <l>Did cheat the one, and with the other flatter;</l>
+               <l>But yet he found that he ſmall good could do,</l>
+               <l>For he in pleaſing one diſpleaſed two.</l>
+               <l>He to the Carvers wife bore ſome good will,</l>
+               <l>The Ring ſhe had, he bad her keep it ſtill:</l>
+               <l>'Twas muſick in her eares, but preſently,</l>
+               <l>
+                  <pb n="5" facs="tcp:41235:3"/>It prov'd a diſcord in the Harmony.</l>
+               <l>The other women ſtamp, curſe and ſwears,</l>
+               <l>As loud as thunder in the Friers eares;</l>
+               <l>And calls him balde-pate, ſillie Coxcomb vain,</l>
+               <l>That was ſo partiall in a cauſe ſo plain.</l>
+               <l>The Frier half afraid, but would not ſhew,</l>
+               <l>His fear to them for fear that they ſhould grow</l>
+               <l>More cholerick, but ſpeakes them <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verie fair,</l>
+               <l>As being loath to loſe ſuch dainty ware:</l>
+               <l>Blaming himſelf that was ſo rude and dull.</l>
+               <l>As not to ſatisfie them to the full;</l>
+               <l>Withall he kindly promis'd that rude rout,</l>
+               <l>That he would bring the buſineſs ſo about.</l>
+               <l>To tell them, and it ſhould be plain expreſt,</l>
+               <l>Which of them did deſerve the Ring the beſt:</l>
+               <l>They were content, why then quoth he 'tis ſo,</l>
+               <l>That I muſt lie with every one of you</l>
+               <l>At ſeverall times, appoint the time and place,</l>
+               <l>And I will finiſh them all in little ſpace;</l>
+               <l>The woman then that puts me in moſt fear,</l>
+               <l>Doth beſt deſerve the Ring away to bear.</l>
+               <l>And be not doubtfull what will follow, after,</l>
+               <l>With that they all burſt forth into a laughter:</l>
+               <l>Nevertheleſs they being covetous,</l>
+               <l>Were all contented that it ſhould be thus.</l>
+               <l>Whiſpering together then a little ſpace;</l>
+               <l>Shall we, quoth they, yeeld for to be ſo baſe</l>
+               <l>Well if we do ly with this balde-pate <hi>Sim,</hi>
+               </l>
+               <l>We'l keep our honeſtie and puniſh him.</l>
+               <l>Women look to the thing ye have in hand,</l>
+               <l>The bargan is made, the Frier will make it ſtand:</l>
+               <l>A Frier is a dangerous knave at put,</l>
+               <l>Then have a care and keep the wicked ſhut.</l>
+               <l>O you have need be wiſe and look about you,</l>
+               <l>
+                  <pb n="6" facs="tcp:41235:4"/>For you have luſt within, and knives without you;</l>
+               <l>But now there roſe a new combuſtion great,</l>
+               <l>The Frier he had uſ'd a ſtrong deceit</l>
+               <l>To wheel them in, and greatlie they complain'd,</l>
+               <l>Muſing how they ſhould keep themſelves unſtain'd;</l>
+               <l>But yet the Ring although of value ſmall,</l>
+               <l>Makes them adventure honeſtie and all.</l>
+               <l>Ere they would loſe it they would loſe their lives,</l>
+               <l>So they muſt needs go whom the Devil drives:</l>
+               <l>But there they held a counſell in the field,</l>
+               <l>Yet never a woman was there that would yeeld<g ref="char:punc">▪</g>
+               </l>
+               <l>To be the firſt ſhould lye with Frier <hi>Sim,</hi>
+               </l>
+               <l>Untill at length they took advice of him;</l>
+               <l>For to draw lots, this counſel pleaſ'd them all,</l>
+               <l>On the shoe-makers Wife the lot did fall.</l>
+               <l>She bluſhing like the Damask Roſe in June,</l>
+               <l>Sayes Frier if it muſt be, come thou ſoon:</l>
+               <l>But yet not ſo, the morning is the beſt,</l>
+               <l>I'le pauſe upon it when I take my reſt.</l>
+               <l>My husband he goes forth to morrow morn,</l>
+               <l>But 'tis not thou ſhall make him wear the horn;</l>
+               <l>When he is gone, then at the window knock,</l>
+               <l>I'le open door though I be in my ſmock,</l>
+               <l>And let thee in, and kick thee out again,</l>
+               <l>After that thou haſt laboured long in vain:</l>
+               <l>And put thee in ſuch fear, that thou wouldſt give,</l>
+               <l>A Kingdom if thou hadſt it, but to live.</l>
+               <l>Remember then thy words think on this thing,</l>
+               <l>He that doth fear thee moſt ſhall have the Ring;</l>
+               <l>Spare me not woman, quoth the Frier then,</l>
+               <l>They that do fear a woman are no men</l>
+               <l>And ſo they part and take their leave of <hi>Sim,</hi>
+               </l>
+               <l>Ploting new projects how to puniſh him:</l>
+               <l>The Carvers wife, a ſubtile Wench was ſhe,</l>
+               <l>
+                  <pb n="7" facs="tcp:41235:4"/>Said Goſſips if you will be rul'd by me.</l>
+               <l>Weel put the Frier into ſuch grievous flights,</l>
+               <l>He'd better be with Goblins, Hags and Sprights;</l>
+               <l>Weel hide ſomethings our husbands bear about,</l>
+               <l>Some tooles we know they cannot be without,</l>
+               <l>And we ſhall then be ſure that they'l come back,</l>
+               <l>When they are forth to fetch them tools they lack:</l>
+               <l>And then the Frier when he is in Bed,</l>
+               <l>Will think no leſs, but he ſhould loſe his head.</l>
+               <l>But lets be ſure to hide the Rogue away,</l>
+               <l>Leſt we and our husbands have a frey;</l>
+               <l>In the mean time, our husbands being there,</l>
+               <l>She that ſhall put the Frier in moſt fear<g ref="char:punc">▪</g>
+               </l>
+               <l>By my conſent ſhall bear away the Ring,</l>
+               <l>The other two were pleaſed with this thing:</l>
+               <l>And after they at Green-Gooſe Fair had been<g ref="char:punc">▪</g>
+               </l>
+               <l>Their hearts being ſet upon a merrie pin.</l>
+               <l>They friendlie part, your patience let me borrow,</l>
+               <l>And you ſhall know what hapned on the morrow,</l>
+            </lg>
+            <div type="part">
+               <head>How the Frier went to the Shoe<g ref="char:EOLhyphen"/>makers Wife, and what hapened.</head>
+               <lg>
+                  <l>THat night the luſtie Frier could not ſleep,</l>
+                  <l>But earlie in the morning up did creep;</l>
+                  <l>And did as he was counſelled before,</l>
+                  <l>Stand oppoſite againſt the womans door.</l>
+                  <l>Waiting when her husband forth did goe,</l>
+                  <l>Which was not long if you the truth would know:</l>
+                  <l>No ſooner he was gone, but brazen face,</l>
+                  <l>More bold then welcome, 'gins to knock apace</l>
+                  <l>The woman opens when ſhe heard him knock,</l>
+                  <l>Leaps from her bed and meets him in her ſmock:</l>
+                  <l>To bed they went, the Frier began to play,</l>
+                  <l>
+                     <pb n="8" facs="tcp:41235:5"/>As thinking he was ſure of his prey</l>
+                  <l>Now Frier, quo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h the woman, what's your will;</l>
+                  <l>But as you love your life ſir lie you ſtill,</l>
+                  <l>Stir not a hand, nor yet a finger move,</l>
+                  <l>But let us firſt diſcourſe a while of love.</l>
+                  <l>Frier you can reſolve me I do know,</l>
+                  <l>Whether the thing be lawfull yea or no?</l>
+                  <l>Then he begins to tell her ſtories rare,</l>
+                  <l>And ſeems to build Caſtles in the Air.</l>
+                  <l>Frier quoth ſhe, pray let your hands lie ſtill,</l>
+                  <l>I am forbidden fruit, talke what you will;</l>
+                  <l>As weak a Schollar as I am, I know,</l>
+                  <l>The heaven is high, the place you ſeek is low.</l>
+                  <l>And ſo ſhe held him ſtill in talke untill,</l>
+                  <l>Her husband came to keep the Frier from hell:</l>
+                  <l>For ſhe it ſeems her husbands tools had hid,</l>
+                  <l>To cauſe him to come home all this ſhe did.</l>
+                  <l>Frier quoth ſhe, my husband knocks, he's come,</l>
+                  <l>Now for the Ring, Frier beware you bumm;</l>
+                  <l>O whither ſhall I run the Frier cryes?</l>
+                  <l>He looking round about, a cheſt he ſpies.</l>
+                  <l>In which he creeps, and ſhe impriſons him,</l>
+                  <l>And keeps the keyes to keep in Frier <hi>Sim:</hi>
+                  </l>
+                  <l>Then for her husband openeth the door,</l>
+                  <l>The Frier was never in ſuch a caſe before.</l>
+                  <l>To bed the woman goes, husband quoth ſhe,</l>
+                  <l>What come you home for, for my tools quoth he;</l>
+                  <l>Quoth ſhe, they ly underneath the bed.</l>
+                  <l>Since you went forth I have been almoſt dead,</l>
+                  <l>O husband verie ſick, I pray you give me,</l>
+                  <l>A little <hi>Aquavitae</hi> to relieve me:</l>
+                  <l>The bottle is in the Cheſt. O it is there,</l>
+                  <l>The Frier he began to ſtink for fear,</l>
+                  <l>Where are the keyes wife? quoth the loving man,</l>
+                  <l>
+                     <pb n="9" facs="tcp:41235:5"/>Quoth ſhe alas I know not by Saint <hi>Ann;</hi>
+                  </l>
+                  <l>But if you were as ſick as I, I ſwear,</l>
+                  <l>I could not have the patience to forbear.</l>
+                  <l>But break the Cheſt, and not for keyes ſo look,</l>
+                  <l>With that the man a bar of iron took:</l>
+                  <l>Laid on the Cheſt as if he had been mad,</l>
+                  <l>Which made the woman ſmile, the Frier ſad.</l>
+                  <l>The poor diſtreſſed Frier that ſillie elfe,</l>
+                  <l>For verie fear did ſo bepiſſe himſelf;</l>
+                  <l>That it run through the Cheſt about the flour,</l>
+                  <l>All o're the room even to the verie door.</l>
+                  <l>O hold your hands, quoth the woman then,</l>
+                  <l>I think you are the unhappieſt of all men:</l>
+                  <l>For I proteſt and ſwear by <hi>Ariſtotle,</hi>
+                  </l>
+                  <l>That you have broke my <hi>Aquavitae</hi> bottle.</l>
+                  <l>Husband be gone, and be not you perplext,</l>
+                  <l>I love you nere the worſe, though I am vext;</l>
+                  <l>With that he gave her kindlie kiſſes two,</l>
+                  <l>Took up his tools and bid his wife adue,</l>
+                  <l>But O how glade was <hi>Sim,</hi> when as he heard,</l>
+                  <l>The Shoemaker was gone, whom he ſo feard:</l>
+                  <l>Then with a hollow fainting voice he ſpoke,</l>
+                  <l>Miſtris, I ſay your bottle is not broke.</l>
+                  <l>But overcharg'd with liquor, lack of air,</l>
+                  <l>And forced forth by thundring claps and fear;</l>
+                  <l>Open your Cheſt and take your bottle out,</l>
+                  <l>Behold the <hi>Aquavitae</hi> runs about.</l>
+                  <l>If there be anie Purgatorie ſure,</l>
+                  <l>This is the place where torments I endure:</l>
+                  <l>God and Saint <hi>Francis</hi> help me for I am ſpent,</l>
+                  <l>I have endured ſufficient puniſhment.</l>
+                  <l>The woman heard him make ſuch pitteous moan,</l>
+                  <l>She let him out and wiſht him to be gone;</l>
+                  <l>And Frier do not you forget this thing,</l>
+                  <l>
+                     <pb n="10" facs="tcp:41235:6"/>She that doth fear you moſt, muſt have the Ring:</l>
+                  <l>The Frier diſcontented went away.</l>
+                  <l>And to the Corn-cutters wife he went next day.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>How the Frier went to the Corn<g ref="char:EOLhyphen"/>cutters Wife, and what happened.</head>
+               <lg>
+                  <l>ONe ſtorm is paſt &amp; though the ſk<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be clear,</l>
+                  <l>Another tempeſt follows verie near:</l>
+                  <l>The burned child they ſay doth dread the fire</l>
+                  <l>But ſo much wit had not the ſenceleſs Frier.</l>
+                  <l>For he to get between a womans armes,</l>
+                  <l>Would adventure through a thouſand harmes;</l>
+                  <l>Go's to the Corn-cutters wife, &amp; there he ſtands</l>
+                  <l>Againſt the door rubbing of his hands;</l>
+                  <l>The man goes forth which makes the Frier glade,</l>
+                  <l>He knocks at door as if he had been mad:</l>
+                  <l>The woman ſhe was loath her ſelf to venter,</l>
+                  <l>At length ſhe opens and the Frier doth enter.</l>
+                  <l>Me thinks quoth ſhe I ſhould not goe to bed,</l>
+                  <l>But with the man that had my maiden-head;</l>
+                  <l>Sweet Miſtris quoth the Frier yeeld conſent,</l>
+                  <l>Change of delights breeds women moſt content,</l>
+                  <l>The woman went to bed with him, but yet</l>
+                  <l>She had more grace then the Frier had wit:</l>
+                  <l>For ſhe like to a kind and loyall wife,</l>
+                  <l>Before the Friers face did draw her knife.</l>
+                  <l>And laid it in the bed between them two,</l>
+                  <l>A ſign that to her husband ſhe was true;</l>
+                  <l>And ever and anon this was her note,</l>
+                  <l>Frier lie ſtill or elſe I will cut thy throat.</l>
+                  <l>O Miſtris, quoth the Frier, by my cool,</l>
+                  <l>Venter thy bodie, I'le venter my Soul:</l>
+                  <l>'Tis but a veniall crime loves fruit to ſteal,</l>
+                  <l>Keep your own counſell, I will ne're reveal.</l>
+                  <l>
+                     <pb n="11" facs="tcp:41235:6"/>The luſtfull Frier no longer could forbear,</l>
+                  <l>Begins to ſtir, the woman begins to ſwear;</l>
+                  <l>And quicklie ſhe had gotten up her knife,</l>
+                  <l>Her Husband came to ſave the Friers life.</l>
+                  <l>Hark Frier quoth the woman my husband knocks,</l>
+                  <l>Fit puniſhment for ſuch dunghill cocks:</l>
+                  <l>Alas quoth the Frier what ſhall betide me,</l>
+                  <l>Good Miſtris uſe your skill now for to hide me.</l>
+                  <l>She with the bed-cloaths covered Frier <hi>Sim,</hi>
+                  </l>
+                  <l>Then runs to her husband lets him in;</l>
+                  <l>The Corn-cutter told his loving Wife,</l>
+                  <l>That he came home for his Corn cutting knife.</l>
+                  <l>The woman told her husband ſhe knew that,</l>
+                  <l>But the poor Frier that lack'd a bit for's cat:</l>
+                  <l>Durſt not ſtir hand nor foot, nor hardlie breath,</l>
+                  <l>But to Saint <hi>Francis</hi> did his life bequeath,</l>
+                  <l>His throbing heart with fear was almoſt broken,</l>
+                  <l>His life he would have given for a token;</l>
+                  <l>Husband quoth ſhe, I'le go to bed again,</l>
+                  <l>I am not verie well, I tell thee plain.</l>
+                  <l>To bed ſhe goes to hide the Friers diſgrace,</l>
+                  <l>And with the blanket covereth his face:</l>
+                  <l>Wife quoth the man, farewell I cannot ſtay,</l>
+                  <l>Husband quoth ſhe, before you go away.</l>
+                  <l>Pray will you cut my corn it pains me ſo,</l>
+                  <l>That I can verie hardlie ſtand or go;</l>
+                  <l>I heard you ſay a moneth ago, ſweet wife,</l>
+                  <l>You never had a corn in all your life.</l>
+                  <l>A corn quoth ſhe may grow within a ſennet,</l>
+                  <l>And a mans horn quoth he, within a minute:</l>
+                  <l>He that ſhall ſeek indeed to wrong you ſo,</l>
+                  <l>Shall dearlie pay for it before he go</l>
+                  <l>What ſhall become of me then, quoth the Frier,</l>
+                  <l>This ſpark I fear will turn into a fire;</l>
+                  <l>
+                     <pb n="12" facs="tcp:41235:7"/>Now one thing muſt be underſtood by all,</l>
+                  <l>The Frier being in bed lay next the wall.</l>
+                  <l>Wife quoth the man, lets ſee your corn, come <hi>Peg,</hi>
+                  </l>
+                  <l>With that ſhe took the Frier by the leg,</l>
+                  <l>And pulld it o're her, like a craftie ſlut,</l>
+                  <l>Husband, quoth ſhe, here is a corn to cut:</l>
+                  <l>She wiſelie handled the matter ſo,</l>
+                  <l>That he ſaw nothing but the Friers toe,</l>
+                  <l>Thinking it was his wifes that craftie elfe,</l>
+                  <l>Now for the Ring, Frier beware of thy ſelf:</l>
+                  <l>Wife, quoth the man, here is no corn, here's none,</l>
+                  <l>Husband, quoth ſhe it lyeth near the bone;</l>
+                  <l>Cut deeper man, what do you mean, cut nigher,</l>
+                  <l>Suppoſe ye were a gelding of a Frier,</l>
+                  <l>Should goe about to make you wear the horn,</l>
+                  <l>As you would deal with him deal with this corn:</l>
+                  <l>I feel it not, cut deeper good <hi>Iohn Goff,</hi>
+                  </l>
+                  <l>I care not though you cut this toe quite off;</l>
+                  <l>Although it bleed and it be very ſore,</l>
+                  <l>Cut off the toe, the corn will come no more;</l>
+                  <l>With that the Frier pluckt her by the breech,</l>
+                  <l>O husband hold your hand I you beſeech.</l>
+                  <l>For now I feel it, 'tis cut near the bone,</l>
+                  <l>It is ſufficient let it now alone:</l>
+                  <l>The man perceiving it vvas cut ſo deep,</l>
+                  <l>Thinking no leſs but that tvvas her did vveep.</l>
+                  <l>And vvent about to ſalve the ſore, but ſhe,</l>
+                  <l>Said husband no too pittifull you be,</l>
+                  <l>Pox take it, and with that gave it a cuff,</l>
+                  <l>I tell thee husband it is not deep enough;</l>
+                  <l>The ſillie man amazed then did grow,</l>
+                  <l>To ſee her ſo hard hearted to her toe,</l>
+                  <l>As he ſuppoſed, nothing be ſuſpected:</l>
+                  <l>But in ſpite of love, I greatlie fear,</l>
+                  <l>
+                     <pb n="13" facs="tcp:41235:7"/>If he had known the Frier had been ſo near,</l>
+                  <l>His counting houſe, he ſurelie would have thought</l>
+                  <l>For all his love to her ſhe had been naught:</l>
+                  <l>And therefore ſhe did wiſelie for to hide him,</l>
+                  <l>Though otherwiſe her heart could not abide him;</l>
+                  <l>His leave then of his wife the man did take,</l>
+                  <l>Which made <hi>Sims</hi> heart glade, which before did ake.</l>
+                  <l>Frier quoth the woman, riſe, and make report,</l>
+                  <l>How well you like my honeſt new found ſport:</l>
+                  <l>Pox take you and your ſport, the Frier ſaid,</l>
+                  <l>I ne're in all my life was ſo afraid;</l>
+                  <l>I am ſo lame that I can hardlie goe,</l>
+                  <l>Sure I ſhall loſe the uſe of my great toe:</l>
+                  <l>Frier quoth the woman 'tis the leaſt of harmes,</l>
+                  <l>To loſe a toe between a vvomans armes.</l>
+                  <l>The Carvers vvife ſee ye do not abuſe,</l>
+                  <l>Leſt you a better joint then this do loſe.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>How the Frier went to the Carvers wife, and what happened.</head>
+               <lg>
+                  <l>THe Frier being tvviſe repulſt before,</l>
+                  <l>Came off vvith ſhame, but vvould not yet give ore</l>
+                  <l>Nor could the preſent loſs of his great toe,</l>
+                  <l>Daunt him ſo much but that he needs muſt go,</l>
+                  <l>Unto the Carvers vvife: vvell ſo it vvas,</l>
+                  <l>He the third time muſt prove himſelf an aſs:</l>
+                  <l>His preſent danger could not make him rue,</l>
+                  <l>But ſince the Carver vvas abroad he knevv.</l>
+                  <l>He boldlie entered the houſe vvith ſhame,</l>
+                  <l>And thus ſalutes the honeſt minded Dame;</l>
+                  <l>Miſtris, quoth he, I did preſume to knock,</l>
+                  <l>As hoping for to find you in your ſmock.</l>
+                  <l>As now I have my hopes accompliſhed,</l>
+                  <l>The ſooner I ſhall find you in your bed:</l>
+                  <l>
+                     <pb n="14" facs="tcp:41235:8"/>And being there a little time well ſpent,</l>
+                  <l>I doubt not but to give you good content:</l>
+                  <l>And go as willingly with me to bed,</l>
+                  <l>As when you went to loſe your maiden-head.</l>
+                  <l>And ſtand not on delays, for why tis thus,</l>
+                  <l>Delayes you know prove oft times dangerous;</l>
+                  <l>You are the laſt that now muſt uſe your skill,</l>
+                  <l>To win the ring after we have our fill.</l>
+                  <l>Of ſweet delights, he her ſo much did charme,</l>
+                  <l>She gave him leave to take her by the arm:</l>
+                  <l>And lift her to her bed, when he was laid,</l>
+                  <l>He creept to bed to her, and thus he ſaid;</l>
+                  <l>You are the Carvers wife, come be not coy,</l>
+                  <l>But give me leave to Carve you out a boy.</l>
+                  <l>What though your husband be a workman good,</l>
+                  <l>Thoſe Creatures which he carves in ſtone and wood,</l>
+                  <l>Are mooveleſs, ſenſleſs, thus much let me tell ye,</l>
+                  <l>That I can carve a Creature on your bellie.</l>
+                  <l>That ſhall outſtrip them all, O do not ſcoffe me,</l>
+                  <l>But be you pleaſ'd to make ſome triall of me<g ref="char:punc">▪</g>
+                  </l>
+                  <l>At length ſhe gave the Frier a box on th'ear,</l>
+                  <l>For creeping to her as it ſeems too near.</l>
+                  <l>He grints, ſhe gives him then another cuff.</l>
+                  <l>And in my mind ſhe ſerv'd him well enough<g ref="char:punc">▪</g>
+                  </l>
+                  <l>The chollerick Frier knew not what to ſay,</l>
+                  <l>At laſt the Carver came to part the fray:</l>
+                  <l>The Carver knocks the woman begins to ſtart;</l>
+                  <l>The Frier he was vexed to the heart;</l>
+                  <l>Skips out of bed, and all about did run,</l>
+                  <l>Where ſhall I hide my ſelf, I am undone.</l>
+                  <l>My husband knocks, Frier beſtir your ſtumps,</l>
+                  <l>Make haſte I ſay, for he will make clubs trumps</l>
+                  <l>Where ſhall I hide me quoth the Frier then,</l>
+                  <l>I think I am the unhappieſt of all men<g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <pb n="15" facs="tcp:41235:8"/>Now Frier quoth the woman if you be wiſe,</l>
+                  <l>And would be ſafe, then follow my advice;</l>
+                  <l>Next room is full of Images moſt rare,</l>
+                  <l>Of naked men and women paſt compare;</l>
+                  <l>That you would almoſt ſwear they living were,</l>
+                  <l>Strip you ſtark naked then and ſtand you there:</l>
+                  <l>In middle of thoſe Images there ſtand,</l>
+                  <l>But do not ſtir a foot nor yet a hand.</l>
+                  <l>Now Frier at the laſt you will agree,</l>
+                  <l>To yeeld the ring to none but unto me;</l>
+                  <l>And ſo ſhe left him ſtanding full of wo,</l>
+                  <l>Juſt like an Image made of barley dough.</l>
+                  <l>And lets her husband in, when in ſhe came,</l>
+                  <l>He did begin to queſtion with his Dam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</l>
+                  <l>Who had been there ſince, unto whom ſhe ſaid,</l>
+                  <l>A Gentleman to have an Image made.</l>
+                  <l>And I, quoth ſhe, have made it verie neat,</l>
+                  <l>And though I ſay it, livelie and compleat;</l>
+                  <l>With that the Carver he began to ſmile,</l>
+                  <l>Thinking that ſhe had jeſted all the while,</l>
+                  <l>Nay do not laugh. quoth ſhe, for here it is,</l>
+                  <l>Look on it now, and tell me what's amiſs:</l>
+                  <l>With that into the room ſhe guided him,</l>
+                  <l>Shewed him the Image of Frier <hi>Sim.</hi>
+                  </l>
+                  <l>Who ſtood among the Images as ſtill,</l>
+                  <l>As anie of the reſt againſt his will;</l>
+                  <l>Zounſe, quoth the man, this is no Image Wife,</l>
+                  <l>If ever I ſaw a man in all my life.</l>
+                  <l>This is a living man, a Frier I think,</l>
+                  <l>With that the Frier he began to ſtink:</l>
+                  <l>The Carver went to take him by the hand,</l>
+                  <l>The Frier ſo demurelie then did ſtand.</l>
+                  <l>Thinking now ſurelie he ſhould goe to wrack,</l>
+                  <l>Had not the woman pul'd her husband back;</l>
+                  <l>
+                     <pb n="16" facs="tcp:41235:9"/>I pray you forbear quoth ſhe, for by this light</l>
+                  <l>It is new painted and you'l ſpoil it quite.</l>
+                  <l>Hardlie could ſhe perſwade this man alas,</l>
+                  <l>To believe otherwiſe then what it was;</l>
+                  <l>And is it poſſible, quoth he, a woman,</l>
+                  <l>Should make ſo neat and rare a thing that no man</l>
+                  <l>That ever ſaw it, but would ſay, nay ſwear,</l>
+                  <l>But that it was alive, it is ſo rare;</l>
+                  <l>Let me but touch it ſure it is alive,</l>
+                  <l>Husband, you ſhall not as I hope to thrive;</l>
+                  <l>I pray forbear, one touch will quite deface it,</l>
+                  <l>I would not for a crown you ſhould diſgrace it;</l>
+                  <l>But if you ſee a fault, mend it I pray,</l>
+                  <l>Look well upon it ere you go away.</l>
+                  <l>Nay wife there is no fault, thou doſt excell,</l>
+                  <l>Except there be a fault in doing well:</l>
+                  <l>Husband I ſee your Judgement is not good,</l>
+                  <l>If that the thing be rightlie underſtood.</l>
+                  <l>Your weakneſs now no longer will I ſmother,</l>
+                  <l>One of his ſtones is bigger then the other,</l>
+                  <l>And muſt be par'd away, or I proteſt,</l>
+                  <l>The ſight of that will quite diſgrace the reſt:</l>
+                  <l>Go borrow me a toole, for ours are all,</l>
+                  <l>Either too blunt, too big, or elſe too ſmall;</l>
+                  <l>The man to borrovv a toole vvent half a mile,</l>
+                  <l>And ſhe conveyed avvay the Frier the vvhile:</l>
+                  <l>The Frier ſvvore by Saint <hi>Hughs</hi> bones,</l>
+                  <l>He'd rather loſe his Life then loſe his ſtones:</l>
+                  <l>To her he yielded for to give the Ring,</l>
+                  <l>That put him in moſt fear about this thing;</l>
+                  <l>That vvomen are ſo honeſt, is this true?</l>
+                  <l>Think vvhat you vvill, ſay nothing, ſo adue<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+            </div>
+            <trailer>FINIS,</trailer>
+            <pb facs="tcp:41235:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
